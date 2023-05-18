@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:autopia" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4989e1bf-62fb-4a00-b2d1-d9857b94b2c6" name="Default Changelist" comment="" />
+    <list default="true" id="4989e1bf-62fb-4a00-b2d1-d9857b94b2c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authopia/src/main/java/com/app/authopia/domain/vo/MemberVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/authopia/src/main/java/com/app/authopia/domain/vo/MemberVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authopia/src/main/java/com/app/authopia/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/authopia/src/main/java/com/app/authopia/service/member/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authopia/src/main/java/com/app/authopia/service/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/authopia/src/main/java/com/app/authopia/service/member/MemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authopia/src/main/java/com/app/authopia/service/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/authopia/src/main/java/com/app/authopia/service/post/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authopia/src/main/java/com/app/authopia/service/PostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/authopia/src/main/java/com/app/authopia/service/post/PostServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +52,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/authopia" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\손진혁\Desktop\web\Authopia\workspace\authopia\src\main\java\com\app\authopia\service\post" />
+      <recent name="C:\Users\손진혁\Desktop\web\Authopia\workspace\authopia\src\main\java\com\app\authopia\service\member" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -36,16 +72,30 @@
       <workItem from="1684144861532" duration="132000" />
       <workItem from="1684145016160" duration="76000" />
       <workItem from="1684244692712" duration="10000" />
+      <workItem from="1684315421169" duration="3410000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2660" y="286" key="FileChooserDialogImpl" timestamp="1684244701522">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1684318983422">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824/13.-1080.1920.1040@0.0.1536.824" timestamp="1684318983422" />
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1684316244464" />
     <state x="479" y="-807" key="FileChooserDialogImpl/0.0.1920.1032/-261.-1080.1920.1032@-261.-1080.1920.1032" timestamp="1684145090462" />
     <state x="2660" y="286" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1684244701522" />
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1684123946344" />
